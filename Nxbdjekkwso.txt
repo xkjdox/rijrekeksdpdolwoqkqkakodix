@@ -49,3 +49,6 @@ Vps include autoscript ucill
 
 Vps linode Edi Sutejo 07-06-2021
 192.53.113.4
+
+Satu bulan manusia eak Tod 07-06-2021
+54.169.159.67
