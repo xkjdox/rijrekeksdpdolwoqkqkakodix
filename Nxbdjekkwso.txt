@@ -46,3 +46,6 @@ Satu bulan lord Rangga lima juni
 
 Vps include autoscript ucill
 174.138.18.138
+
+Vps linode Edi Sutejo satu bulan
+192.53.113.4
