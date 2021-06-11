@@ -58,3 +58,6 @@ Satu bulan why 09-06-2021
 
 Equinix bos
 209.58.174.236
+
+Azure william
+52.139.216.147
