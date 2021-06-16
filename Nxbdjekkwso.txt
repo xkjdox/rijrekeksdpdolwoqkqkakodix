@@ -61,3 +61,6 @@ Equinix bos
 
 Azure william
 52.139.216.147
+
+Do punya why satu bulan
+157.230.242.128
