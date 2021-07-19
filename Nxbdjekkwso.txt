@@ -109,3 +109,6 @@ Babi
 
 Ip nya adip kntl
 103.147.5.85
+
+Linkgo asuu limitt
+103.157.27.170
