@@ -3,6 +3,7 @@
 103.101.3.136
 103.101.3.146
 116.193.190.16
+103.157.27.175
 
 ip baru idcloudhost william
 103.55.38.107
@@ -93,7 +94,7 @@ Do william kedua
 139.59.106.85
 
 Si kontol satu bulan 29-06-2021
-149.28.130.4
+Expired
 
 Linkgo william
 103.157.27.141
