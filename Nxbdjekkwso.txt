@@ -129,3 +129,6 @@ Nands satu bulan 27-07-2021
 
 Lamvpn satu bulan 28-07-2021
 139.162.62.190
+
+Neucentrix Herza
+103.168.146.160
