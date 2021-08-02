@@ -20,3 +20,6 @@ Lamvpn satu bulan 28-07-2021
 
 Neucentrix herza
 103.168.146.160
+
+Adip satu bulan 02-08-2021
+103.168.146.169
