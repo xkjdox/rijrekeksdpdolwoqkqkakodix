@@ -140,3 +140,4 @@ Adip satu bulan 02-08-2021
 
 Vps gcp William
 34.101.87.243
+34.101.103.24
