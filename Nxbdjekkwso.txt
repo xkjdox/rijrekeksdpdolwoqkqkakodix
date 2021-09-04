@@ -167,3 +167,6 @@ Biznet william
 
 Biznet SG_RA 1 bulan ( sab 4 september 2021) - 4 oktober
 103.150.86.156
+
+GCP R H 1 bulan ( minggu september 2021) - 5 oktober 2021
+34.87.92.34
