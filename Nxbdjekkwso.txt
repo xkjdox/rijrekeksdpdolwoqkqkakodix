@@ -169,5 +169,8 @@ Biznet william
 Biznet SG_RA 1 bulan ( sab 4 september 2021) - 4 oktober
 103.150.86.156
 
-GCP R H 1 bulan ( minggu september 2021) - 5 oktober 2021
+GCP R H 1 bulan ( minggu 5 september 2021) - 5 oktober 2021
 34.87.92.34
+
+Indovpn idcloud 1 bulan ( minggu 5 september 2021) - 5 oktober 2021
+103.171.85.128
