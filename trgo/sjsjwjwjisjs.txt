@@ -66,3 +66,6 @@ Indovpn idcloud 1 bulan ( minggu 5 september 2021) - 5 oktober 2021
 
 Jojo 1 bulan ( minggu 5 september 2021 ) - ( 5 oktober 2021 )
 139.162.42.57
+
+Fal 1 bulan ( selasa 7 september 2021 ) - ( 7 oktober 2021 )
+139.162.35.56
