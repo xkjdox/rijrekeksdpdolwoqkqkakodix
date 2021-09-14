@@ -10,36 +10,8 @@
 128.199.172.72
 159.65.4.132
 
-ip baru idcloudhost william
-103.55.38.107
-
 Ip baru nya why
 103.31.38.145
-
-Ip Eka idcloudhost william
-103.214.113.182
-
-Connectindo William
-103.65.236.170
-
-id cloudhost William
-103.214.113.9
-
-Digital ocean William
-104.248.96.43
-128.199.179.99
-
-Dedi patungan
-202.145.2.104
-
-Satu bulan why 03-06-2021
-Expired
-
-Satu bulan why 04-06-2021
-Expired
-
-Aws dikasih why
-13.212.213.235
 
 PT raja mitra informatika
 103.227.253.153
@@ -193,3 +165,6 @@ Satria 1 bulan ( 10-9-2021 exp 10-10-2021)
 
 Satria 1 bulan ( 13-09-2021 exp 13-10-2021)
 34.101.167.247
+
+Shiro kaze 1 bulan ( 14-09-2021 exp 14-09-2021)
+128.199.107.157
