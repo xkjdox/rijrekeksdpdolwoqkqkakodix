@@ -10,6 +10,7 @@
 157.245.195.216
 128.199.172.72
 159.65.4.132
+167.172.92.206
 
 Satria satu bulan 25-07-2021
 
@@ -38,10 +39,10 @@ Tiga ip lifetime Nur Arifah
 34.101.132.39
 
 Jojo satu bulan 20-08-2021
-167.99.67.51
+Expired
 
 Gecepe kuotamurah.id satu bulan 20-08-2021
-34.101.127.133
+Expired
 
 Linkgo william
 103.157.27.147
