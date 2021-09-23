@@ -85,3 +85,6 @@ Shiro kaze 1 bulan ( 14-09-2021 exp 14-09-2021)
 
 Gcp Veron 1 bulan ( 16-09-2021 exp 16-09-2021)
 34.101.200.159
+
+Gcp nur arifah 1 bulan ( 23-09-2021 exp 23-09-2021)
+34.101.223.58
