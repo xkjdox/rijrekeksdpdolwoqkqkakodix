@@ -86,15 +86,6 @@ Konek indo anjg
 Vultr nya aji 12-07-2021
 Babi
 
-Ip nya adip kntl
-103.147.5.85
-
-Linkgo asuu limitt
-103.157.27.170
-
-Linkgo kedua asuuuu
-103.157.27.163
-
 Satria satu bulan 25-07-2021
 
 Do percobaan william
@@ -131,7 +122,6 @@ Linkgo william
 103.157.27.147
 
 Azure Microsoft sg satria 27-08-2021
-104.215.138.6
 
 Lifetime malaysia che gu pkp 1 ip
 172.105.118.42
@@ -177,3 +167,6 @@ Gcp nur arifah 1 bulan ( 23-09-2021 exp 23-09-2021)
 
 Uninet william
 202.145.2.158
+
+Dikasih xebec
+40.65.150.179
