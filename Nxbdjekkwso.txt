@@ -86,24 +86,6 @@ Konek indo anjg
 Vultr nya aji 12-07-2021
 Babi
 
-Satria satu bulan 25-07-2021
-
-Do percobaan william
-128.199.71.55
-
-Nands satu bulan 27-07-2021
-Expired
-
-Lamvpn satu bulan 28-07-2021
-Expired
-
-Neucentrix Herza
-103.168.146.160
-
-
-Adip satu bulan 02-08-2021
-Expired
-
 Vps gcp William
 34.101.87.243
 34.101.103.24
@@ -127,7 +109,7 @@ Lifetime malaysia che gu pkp 1 ip
 172.105.118.42
 
 Biznet william
-103.150.87.38
+103.150.192.19
 
 Biznet SG_RA 1 bulan ( sab 4 september 2021) - 4 oktober
 103.150.86.156
