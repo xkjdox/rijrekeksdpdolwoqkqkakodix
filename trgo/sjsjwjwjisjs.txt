@@ -84,3 +84,6 @@ Gcp nur arifah 1 bulan ( 23-09-2021 exp 23-09-2021)
 
 Uninet william
 202.145.2.158
+
+Shiro Kaze 01-10-2021 exp 01-11-2021
+104.248.153.24
