@@ -10,6 +10,7 @@
 128.199.172.72
 159.65.4.132
 167.172.92.206
+103.227.253.163
 
 Ip baru nya why
 103.31.38.145
@@ -118,13 +119,13 @@ GCP R H status : LIFETIME
 34.87.92.34
 
 Indovpn idcloud 1 bulan ( minggu 5 september 2021) - 5 oktober 2021
-103.55.38.46
+expired
 
 Jojo 1 bulan ( minggu 5 september 2021 ) - ( 5 oktober 2021 )
-139.162.42.57
+expired
 
 Fal 1 bulan ( selasa 7 september 2021 ) - ( 7 oktober 2021 )
-139.162.35.56
+expired
 
 Umam Fara Lifetime 3 ip
 34.101.159.193
