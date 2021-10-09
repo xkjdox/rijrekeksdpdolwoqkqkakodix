@@ -130,9 +130,6 @@ expired
 Umam Fara Lifetime 3 ip
 34.101.159.193
 
-Griezz 1 bulan ( kamis 9 september 2021 ) - ( 9 oktober 2021)
-103.41.206.116
-
 Satria 1 bulan ( 10-9-2021 exp 10-10-2021)
 13.229.240.191
 
@@ -162,3 +159,6 @@ Griezz 01-10-2021 exp 01-11-2021
 
 Digital ocean william
 128.199.105.169
+
+Griezz 1 bulan 09-10-2021 exp 09-11-2021
+103.41.206.116
