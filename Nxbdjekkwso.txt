@@ -18,23 +18,11 @@ Ip baru nya why
 PT raja mitra informatika
 103.227.253.153
 
-Satu bulan riksan 05-06-2021
-Expired
-
 Satu bulan lord Rangga 05-06-2021
 Expired
 
 Vps include autoscript ucill
 174.138.18.138
-
-Vps linode Edi Sutejo 07-06-2021
-Expired
-
-Satu bulan manusia eak Tod 07-06-2021
-Expired
-
-Satu bulan why 09-06-2021
-Expired
 
 Equinix bos
 209.58.174.236
@@ -69,14 +57,8 @@ Expired
 Do william kedua
 139.59.106.85
 
-Si kontol satu bulan 29-06-2021
-Expired
-
 Linkgo william
 103.157.27.141
-
-Bijinet Adip Pradita 08-07-2021
-Expired
 
 Konek indo anjg
 103.253.27.45
@@ -93,15 +75,10 @@ Tiga ip lifetime Nur Arifah
 34.101.85.104
 34.101.132.39
 
-Jojo satu bulan 20-08-2021
-Expired
-
 Gecepe kuotamurah.id satu bulan 20-08-2021
 
 Linkgo william
 103.157.27.147
-
-Azure Microsoft sg satria 27-08-2021
 
 Lifetime malaysia che gu pkp 1 ip
 172.105.118.42
@@ -109,32 +86,20 @@ Lifetime malaysia che gu pkp 1 ip
 Biznet william
 103.150.192.19
 
-Biznet SG_RA 1 bulan ( sab 4 september 2021) - 4 oktober
-Expired
-
 GCP R H status : LIFETIME
 34.87.92.34
-
-Indovpn idcloud 1 bulan ( minggu 5 september 2021) - 5 oktober 2021
-expired
-
-Jojo 1 bulan ( minggu 5 september 2021 ) - ( 5 oktober 2021 )
-expired
-
-Fal 1 bulan ( selasa 7 september 2021 ) - ( 7 oktober 2021 )
-expired
 
 Umam Fara Lifetime 3 ip
 34.101.159.193
 
 Satria 1 bulan ( 10-9-2021 exp 10-10-2021)
-13.229.240.191
+expired
 
 Satria 1 bulan ( 13-09-2021 exp 13-10-2021)
-34.101.132.191
+expired
 
 Shiro kaze 1 bulan ( 14-09-2021 exp 14-09-2021)
-128.199.107.157
+expired
 
 Gcp Veron 1 bulan ( 16-09-2021 exp 16-09-2021)
 34.101.200.159
