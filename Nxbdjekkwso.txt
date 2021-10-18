@@ -92,21 +92,6 @@ GCP R H status : LIFETIME
 Umam Fara Lifetime 3 ip
 34.101.159.193
 
-Satria 1 bulan ( 10-9-2021 exp 10-10-2021)
-expired
-
-Satria 1 bulan ( 13-09-2021 exp 13-10-2021)
-expired
-
-Shiro kaze 1 bulan ( 14-09-2021 exp 14-09-2021)
-expired
-
-Gcp Veron 1 bulan ( 16-09-2021 exp 16-09-2021)
-34.101.200.159
-
-Gcp nur arifah 1 bulan ( 23-09-2021 exp 23-09-2021)
-34.101.223.58
-
 Uninet william
 202.145.2.158
 
