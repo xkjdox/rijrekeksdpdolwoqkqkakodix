@@ -42,12 +42,6 @@ Expired
 Satu ip lifetime orang malaysia
 43.225.108.185
 
-Si akbar maula beli satu bulan 22-06-2021
-Expired
-
-Si why satu bulan 23-06-2021
-Expired
-
 Punya gue idc
 27.112.79.199
 
@@ -109,3 +103,6 @@ Digital ocean william
 
 Griezz 1 bulan 09-10-2021 exp 09-11-2021
 103.41.206.116
+
+rajasa william
+103.227.253.230
