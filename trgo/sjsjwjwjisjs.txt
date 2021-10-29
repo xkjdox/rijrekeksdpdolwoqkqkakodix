@@ -64,18 +64,6 @@ expired
 Fal 1 bulan ( selasa 7 september 2021 ) - ( 7 oktober 2021 )
 expired
 
-Satria 1 bulan ( 10-9-2021 exp 10-10-2021)
-13.229.240.191
-
-Satria 1 bulan ( 13-09-2021 exp 13-10-2021)
-13.229.240.191
-
-Shiro kaze 1 bulan ( 14-09-2021 exp 14-09-2021)
-128.199.107.157
-
-Gcp Veron 1 bulan ( 16-09-2021 exp 16-09-2021)
-34.101.200.159
-
 Gcp nur arifah 1 bulan ( 23-09-2021 exp 23-09-2021)
 34.101.223.58
 
@@ -99,3 +87,6 @@ rajasa william
 
 shiro kaze 1 bulan 24-10-2021 exp 24-11-2021
 157.245.198.154
+
+biznet william
+103.150.193.138
