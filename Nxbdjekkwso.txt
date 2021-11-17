@@ -101,14 +101,11 @@ Griezz 01-11-2021 exp 01-12-2021
 Digital ocean william
 128.199.105.169
 
-Griezz 1 bulan 09-10-2021 exp 09-11-2021
-103.41.206.116
-
 rajasa william
 103.227.253.230
 
-shiro kaze 1 bulan 24-10-2021 exp 24-11-2021
-157.245.198.154
-
 biznet william
 103.150.193.138
+
+rajasa william
+103.227.253.145
