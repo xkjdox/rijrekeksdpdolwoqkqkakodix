@@ -82,17 +82,11 @@ Digital ocean william
 rajasa william
 103.227.253.230
 
-shiro kaze 1 bulan 24-10-2021 exp 24-11-2021
-157.245.198.154
-
 biznet william
 103.150.193.138
 
 rajasa william
 103.227.253.145
-
-shiro kaze 19-11-2021 exp 19-12-2021
-159.223.46.59
 
 william uninet
 103.155.250.27
