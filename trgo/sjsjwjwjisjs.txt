@@ -93,13 +93,13 @@ william uninet
 
 
 shiro kaze 14-12-2021 exp 14-01-2022
-52.140.213.34
+expired
 
 shiro kaze 14-12-2021 exp 14-01-2021
-172.105.125.212
+expired
 
 yudha 15-12-2021 exp 15-01-2021
-128.199.145.244
+expired
 
 joewana 18-12-2021 exp 18-01-2022
 139.59.243.213
