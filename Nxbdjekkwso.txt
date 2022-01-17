@@ -163,3 +163,7 @@ queen ssh (si komtod) expired :14 - 02 - 2022
 yudha (@yudhagabel)
 expired : 15 - 02 - 2021
 128.199.145.244
+
+kang jaowana (@kang_joewana)
+expired : 16 - 02 -2022
+139.59.243.213
