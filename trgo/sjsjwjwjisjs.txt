@@ -98,11 +98,8 @@ expired
 shiro kaze 14-12-2021 exp 14-01-2021
 expired
 
-joewana 18-12-2021 exp 18-01-2022
-139.59.243.213
-
 kopet 19-12-2021 exp 19-01-2022
-103.176.78.115
+expired
 
 shiro kaze 28-12-2021 exp 28-01-2021
 45.118.132.84
