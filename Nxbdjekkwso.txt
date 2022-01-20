@@ -102,7 +102,7 @@ Digital ocean william
 128.199.105.169
 
 rajasa william
-103.227.253.230
+103.227.254.122
 
 biznet william
 103.150.193.138
