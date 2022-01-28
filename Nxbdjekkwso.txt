@@ -2,7 +2,7 @@ Ip baru nya why
 103.31.38.145
 
 PT raja mitra informatika
-103.227.253.153
+103.227.254.100
 103.227.254.77
 
 Satu bulan lord Rangga 05-06-2021
@@ -87,10 +87,6 @@ Digital ocean william
 
 biznet william
 103.150.193.138
-
-rajasa william
-103.227.254.100
-103.227.254.77
 
 william uninet
 103.155.250.27
