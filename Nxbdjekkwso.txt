@@ -3,6 +3,7 @@ Ip baru nya why
 
 PT raja mitra informatika
 103.227.253.153
+103.227.254.77
 
 Satu bulan lord Rangga 05-06-2021
 Expired
@@ -36,9 +37,6 @@ Expired
 
 Do william kedua
 139.59.106.85
-
-Linkgo william
-103.157.27.141
 
 Konek indo anjg
 103.253.27.45
@@ -87,14 +85,12 @@ exp
 Digital ocean william
 128.199.105.169
 
-rajasa william
-103.227.254.122
-
 biznet william
 103.150.193.138
 
 rajasa william
 103.227.254.100
+103.227.254.77
 
 william uninet
 103.155.250.27
