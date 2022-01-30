@@ -130,7 +130,7 @@ shiro kaze 28-12-2021 exp 28-01-2021
 expired
 
 vpnneo 30-12-2021 exp 30-01-2021
-172.104.46.127
+exp
 
 adisanggoro fastssh
 202.73.26.181
