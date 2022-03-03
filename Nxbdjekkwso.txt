@@ -62,7 +62,7 @@ Lifetime malaysia che gu pkp 1 ip
 172.105.118.42
 
 Biznet william
-103.150.192.19
+103.150.98.205
 
 GCP R H status : LIFETIME
 34.87.92.34
