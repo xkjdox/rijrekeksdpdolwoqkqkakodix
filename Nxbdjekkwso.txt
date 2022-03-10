@@ -177,3 +177,7 @@ exp : 01-04-2022
 Zela 1 bulan v2
 exp : 06-04-2022
 178.128.80.224
+
+### RESSELER LIFETIME & UNLI IP ####
+NAMA : REGI
+41.216.178.86
