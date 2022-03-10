@@ -5,21 +5,6 @@ PT raja mitra informatika
 103.227.253.180
 103.227.253.238
 
-Satu bulan lord Rangga 05-06-2021
-Expired
-
-Vps include autoscript ucill
-174.138.18.138
-
-Equinix bos
-209.58.174.236
-
-Azure william
-52.139.216.147
-
-Do punya why satu bulan 16-06-2021
-Expired
-
 Aws william
 54.254.154.110
 
@@ -29,20 +14,11 @@ Expired
 Satu ip lifetime orang malaysia
 43.225.108.185
 
-Punya gue idc
-27.112.79.199
-
-Aws satria satu bulan 24-06-2021
-Expired
-
 Do william kedua
 139.59.106.85
 
 Konek indo anjg
 103.253.27.45
-
-Vultr nya aji 12-07-2021
-Babi
 
 Vps gcp William
 34.101.87.243
@@ -52,8 +28,6 @@ Tiga ip lifetime Nur Arifah
 34.126.135.43
 34.101.85.104
 34.101.132.39
-
-Gecepe kuotamurah.id satu bulan 20-08-2021
 
 Linkgo william
 103.157.27.147
@@ -72,18 +46,6 @@ Umam Fara Lifetime 3 ip
 
 Uninet william
 202.145.2.158
-
-Dikasih xebec
-40.65.150.179
-
-Shiro Kaze 01-10-2021 exp 01-11-2021
-exp
-
-Griezz 01-11-2021 exp 01-12-2021
-exp
-
-Digital ocean william
-128.199.105.169
 
 biznet william
 103.150.193.138
@@ -108,51 +70,13 @@ test
 Jojon 08-12-2021 - exp 08-01-2022
 expired
 
-shiro kaze 14-12-2021 exp 14-01-2022
-expired
-
-shiro kaze 14-12-2021 exp 14-01-2021
-expired
-
-mss william
-103.174.67.76
-
-joewana 18-12-2021 exp 18-01-2022
-expired
-
-kopet 19-12-2021 exp 19-01-2022
-expired
-
-argon
-
-shiro kaze 28-12-2021 exp 28-01-2021
-expired
-
 vpnneo 30-12-2021 exp 30-01-2021
 exp
 
 adisanggoro fastssh
 202.73.26.181
 
-queen ssh (si komtod) expired :14 - 02 - 2022
-Exp
-
-yudha (@yudhagabel)
-expired : 15 - 02 - 2021
-Exp
-
-kang jaowana (@kang_joewana)
-expired : 16 - 02 -2022
-Exp
-
-Shiro Kaze
-expired : 22 - 02 - 2022
-exp
-
 103.227.253.195
-
-shiro kaze exp : 29 feb 2022 (29-02-2022)
-exp
 
 phoenix william
 131.153.76.245
