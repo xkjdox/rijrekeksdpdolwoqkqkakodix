@@ -53,22 +53,8 @@ biznet william
 william uninet
 103.155.250.27
 
-belajar rajasa william
-
-dahlah belajar mulu
-103.227.253.172
-
-griezzz exp 02-01-2022 (januari 2022)
-103.150.194.223
-
-ikd william
-103.167.34.144
-
 test
 103.227.253.140
-
-Jojon 08-12-2021 - exp 08-01-2022
-expired
 
 vpnneo 30-12-2021 exp 30-01-2021
 exp
@@ -90,6 +76,7 @@ ID CTN william
 
 IDC WILLIAM
 103.55.38.105
+103.31.38.83
 
 Shiro Kaze 1 bulan v2
 exp : 01-04-2022
