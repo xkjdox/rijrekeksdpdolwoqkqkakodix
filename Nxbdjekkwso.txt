@@ -8,9 +8,6 @@ PT raja mitra informatika
 Aws william
 54.254.154.110
 
-Why vps lagi satu bulan 18-06-2021
-Expired
-
 Satu ip lifetime orang malaysia
 43.225.108.185
 
@@ -56,9 +53,6 @@ william uninet
 test
 103.227.253.140
 
-vpnneo 30-12-2021 exp 30-01-2021
-exp
-
 adisanggoro fastssh
 202.73.26.181
 
@@ -66,10 +60,6 @@ adisanggoro fastssh
 
 phoenix william
 131.153.76.245
-
-Queenssh 1 bulan v2
-Exp : 17-03-2022
-20.24.36.152
 
 ID CTN william
 103.157.116.116
