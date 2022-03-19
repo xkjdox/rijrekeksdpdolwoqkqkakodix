@@ -67,7 +67,7 @@ ID CTN william
 IDC WILLIAM
 103.55.38.105
 103.31.38.83
-103.214.113.131
+103.55.38.115
 
 Shiro Kaze 1 bulan v2
 exp : 01-04-2022
