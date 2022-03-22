@@ -50,12 +50,6 @@ biznet william
 william uninet
 103.155.250.27
 
-test
-103.227.253.140
-
-adisanggoro fastssh
-202.73.26.181
-
 103.227.253.195
 
 phoenix william
@@ -90,3 +84,7 @@ ID TELEGRAM : 261970051
 103.155.250.71
 188.166.245.176
 13.70.37.47
+
+Shiro Kaze 1 bulan v2
+exp : 21-04-2022
+139.162.4.75
