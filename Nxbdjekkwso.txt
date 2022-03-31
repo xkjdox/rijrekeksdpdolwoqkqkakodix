@@ -39,36 +39,21 @@ Umam Fara Lifetime 3 ip
 34.101.159.193
 
 Uninet william
-202.145.2.158
-
-biznet william
-103.150.193.138
-
-william uninet
 103.155.250.27
-
-103.227.253.195
-
-phoenix william
-131.153.76.245
-
-ID CTN william
-103.157.116.116
 
 IDC WILLIAM
 103.55.38.105
 103.31.38.83
 103.55.38.115
+103.55.38.250
 
 Shiro Kaze 1 bulan v2
 exp : 01-04-2022
-139.162.45.228
+expired
 
 Blur 1 bulan v2
 exp : 01-04-2022
-116.193.191.66
-
-103.215.72.178
+expired
 
 Zela 1 bulan v2
 exp : 06-04-2022
