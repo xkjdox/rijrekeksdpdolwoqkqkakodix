@@ -53,7 +53,7 @@ IDC WILLIAM
 
 Zela 1 bulan v2
 exp : 06-04-2022
-178.128.80.224
+expired
 
 ### RESSELER LIFETIME & UNLI IP ####
 NAMA : REGI
