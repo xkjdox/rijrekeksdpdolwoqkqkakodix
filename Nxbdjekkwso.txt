@@ -63,11 +63,11 @@ ID TELEGRAM : 261970051
 
 Eki
 exp : 04-05-2022
-13.215.127.107
+exp
 
 Mistek
 exp : 04-05-2022
-128.199.116.49
+exp
 
 @bacotklenanjeng
 exp : 06-05-2022
