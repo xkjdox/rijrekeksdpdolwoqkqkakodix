@@ -63,7 +63,7 @@ ID TELEGRAM : 261970051
 
 3 ip punya @xdev21
 exp : 11-05-2022
-128.199.187.220
+exp
 ----------------
 exp : 18-05-2022
 192.46.230.193
@@ -73,7 +73,7 @@ exp : 08-06-2022
 
 punya @CsGateNetwork
 exp : 12-05-2022
-188.166.177.218
+exp
 
 Punya @Ilhammmmmmmmmmn202
 exp : 15-05-2022
