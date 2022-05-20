@@ -1,26 +1,14 @@
-
-
 PT raja mitra informatika
 103.227.253.180
 103.227.253.238
 103.227.253.133
 103.227.254.87
 
-Aws william
-54.254.154.110
-
 Satu ip lifetime orang malaysia
 43.225.108.185
 
-Do william kedua
-139.59.106.85
-
 Konek indo anjg
 103.253.27.45
-
-Vps gcp William
-34.101.87.243
-34.101.103.24
 
 Tiga ip lifetime Nur Arifah
 34.126.135.43
@@ -38,15 +26,6 @@ GCP R H status : LIFETIME
 
 Umam Fara Lifetime 3 ip
 34.101.159.193
-
-Uninet william
-103.155.250.27
-
-IDC WILLIAM
-103.55.38.105
-103.31.38.83
-103.55.38.115
-103.55.38.250
 
 Zela 1 bulan v2
 exp : 06-04-2022
@@ -66,32 +45,17 @@ exp : 11-05-2022
 exp
 ----------------
 exp : 18-05-2022
-192.46.230.193
+exp
 ----------------
 exp : 08-06-2022
 101.99.74.159
 
-punya @CsGateNetwork
-exp : 12-05-2022
-exp
-
-Punya @Ilhammmmmmmmmmn202
-exp : 15-05-2022
-exp
-
-Punya @kuzua_tuz
-exp : 16-05-2022
-exp
-
-punya @Hrus122
-exp : 18-05-2022
-128.199.236.148
 
 punya ryan Qolby
 exp : 28-05-2022
 103.167.35.135
 
-mss william
+### william 2069-06-09
 103.174.67.139
 
 punya Dimas Prayogo
