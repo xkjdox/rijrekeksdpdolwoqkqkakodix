@@ -31,10 +31,6 @@ GCP R H status : LIFETIME
 Umam Fara Lifetime 3 ip
 34.101.159.193
 
-Zela 1 bulan v2
-exp : 06-04-2022
-expired
-
 RESSELER LIFETIME & UNLI IP
 NAMA : REGI
 ID TELEGRAM : 261970051
@@ -51,7 +47,7 @@ exp : 08-06-2022
 
 punya ryan Qolby
 exp : 28-05-2022
-103.167.35.135
+exp
 
 ### william 2069-06-09 103.174.67.139
 103.174.67.139
