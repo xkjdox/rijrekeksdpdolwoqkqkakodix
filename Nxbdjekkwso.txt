@@ -122,3 +122,7 @@ beeia 5 ip lifetime
 
 kdbes 1 ip lifetime
 20.24.40.153
+
+haaia 1 bulan
+exp : 06-07-2022
+188.166.241.32
