@@ -123,7 +123,7 @@ beeia 5 ip lifetime
 41.216.177.57
 
 kdbes 1 ip lifetime
-20.24.40.153
+20.212.165.238
 
 haaia 1 bulan
 exp : 06-07-2022
