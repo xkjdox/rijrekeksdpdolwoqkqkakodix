@@ -5,9 +5,6 @@
 Satu ip lifetime orang malaysia
 43.225.108.185
 
-Konek indo anjg
-103.253.27.45
-
 Tiga ip lifetime Nur Arifah
 34.126.135.43
 34.101.85.104
@@ -61,7 +58,8 @@ exp : 24-06-2022
 RezaWibu 1 bulan
 exp : 29-06-2022
 139.59.244.79
-
+### diskonekindo 2069-06-09 103.253.27.45
+103.253.27.45
 ### sghe 2069-06-09 194.15.115.78
 194.15.115.78
 ### alibadut 2069-06-09 8.215.77.121
