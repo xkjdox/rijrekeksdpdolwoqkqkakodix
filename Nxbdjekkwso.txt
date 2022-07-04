@@ -46,14 +46,10 @@ ID TELEGRAM : 261970051
 194.15.115.78
 ### alibadut 2069-06-09 8.215.77.121
 8.215.77.121
-### rezavpn 2022-07-02 expired
+### redi 2022-07-03 expired
 expired
-### griez 2022-07-02 expired
+### clara 2022-07-04 expired
 expired
-### redi 2022-07-03 34.142.221.58
-34.142.221.58
-### clara 2022-07-04 103.178.174.201
-103.178.174.201
 ### ridwan 2022-08-04 103.55.37.76
 103.55.37.76
 ### bocahgendeng 2069-06-09 103.227.253.132
@@ -67,10 +63,6 @@ expired
 
 Bapak1Guru
 exp : 04-07-2022
-194.15.115.226
-
-rejavvibu 1 bulan
-exp : 02-07-2022
 expired
 
 rejawoibu 1 bulan
@@ -79,7 +71,7 @@ exp : 02-08-2022
 
 hajxdi 1 bulan
 exp : 04-07-2022
-103.178.174.197
+expired
 
 ushdhs 3 ip lifetime
 103.16.199.240
