@@ -52,8 +52,8 @@ ID TELEGRAM : 261970051
 8.215.77.121
 ### redi 2022-07-03 expired
 expired
-### clara 2022-07-04 expired
-expired
+### clara 2022-08-05 103.178.174.201
+103.178.174.201
 ### ridwan 2022-08-04 103.55.37.76
 103.55.37.76
 ### bocahgendeng 2069-06-09 103.227.253.132
@@ -84,11 +84,11 @@ ushdhs 3 ip lifetime
 
 duheeu 1 bulan
 exp : 05-07-2022
-43.229.254.73
+exp
 
 sijesh 1 bulan
 exp : 05-07-2022
-43.229.254.59
+exp
 
 beeia 5 ip lifetime
 43.229.254.222
