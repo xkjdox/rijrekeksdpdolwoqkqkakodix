@@ -103,11 +103,11 @@ kdbes 1 ip lifetime
 
 haaia 1 bulan
 exp : 06-07-2022
-188.166.241.32
+expired
 
 jshss 1 bulan
 exp : 07-07-2022
-103.136.19.197
+expired
 
 ksjse 3 ip lifetime
 103.227.254.89
