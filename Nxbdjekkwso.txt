@@ -53,16 +53,14 @@ ID TELEGRAM : 261970051
 194.15.115.78
 ### alibadut 2069-06-09 8.215.77.121
 8.215.77.121
-### redi 2022-07-03 expired
-expired
 ### clara 2022-08-05 103.178.174.201
 103.178.174.201
 ### ridwan 2022-08-04 103.55.37.76
 103.55.37.76
 ### bocahgendeng 2069-06-09 103.227.253.132
 103.227.253.132
-### sanz 2022-07-08 38.9.140.123
-38.9.140.123
+### sanz 2022-07-08 expired
+expired
 ### anonim 2069-06-09 43.252.237.147
 43.252.237.147
 ### rafli 2022-07-14 188.166.220.93
@@ -70,30 +68,14 @@ expired
 ### flassh 2069-06-09 146.19.196.226
 146.19.196.226
 
-Bapak1Guru
-exp : 04-07-2022
-expired
-
 rejawoibu 1 bulan
 exp : 02-08-2022
 178.128.108.138
-
-hajxdi 1 bulan
-exp : 04-07-2022
-expired
 
 ushdhs 3 ip lifetime
 103.16.199.240
 43.252.237.242
 103.253.27.173
-
-duheeu 1 bulan
-exp : 05-07-2022
-exp
-
-sijesh 1 bulan
-exp : 05-07-2022
-exp
 
 beeia 5 ip lifetime
 43.229.254.222
@@ -105,14 +87,6 @@ beeia 5 ip lifetime
 
 kdbes 1 ip lifetime
 20.212.165.238
-
-haaia 1 bulan
-exp : 06-07-2022
-expired
-
-jshss 1 bulan
-exp : 07-07-2022
-expired
 
 ksjse 3 ip lifetime
 103.227.254.89
@@ -191,11 +165,13 @@ BapackGuruu
 exp 04-08-2022
 194.15.115.226
 
-Sisa 2 IP Dani Lifetime
+2 IP Dani Lifetime
 103.136.18.217
 
 azuretod william
 20.78.62.115
+### azuredut 2069-06-09 20.78.62.235
+20.78.62.235
 
 2 ip 1 bulan
 1. exp 08-08-2022
