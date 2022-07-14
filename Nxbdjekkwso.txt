@@ -62,8 +62,8 @@ ID TELEGRAM : 261970051
 103.227.253.132
 ### anonim 2069-06-09 43.252.237.147
 43.252.237.147
-### rafli 2022-07-14 188.166.220.93
-188.166.220.93
+### rafli 2022-07-14 exp
+exp
 ### flassh 2069-06-09 146.19.196.226
 146.19.196.226
 
@@ -91,25 +91,13 @@ ksjse 3 ip lifetime
 103.227.254.89
 38.9.140.93
 
-Nahloh 1 bulan
-exp : 11-07-2022
-exp
-
-jenwj 1 bulan
-exp : 13-07-2022
-exp
-
-isns 1 bulan
-exp : 13-07-2022
-exp
-
 florentod 1 bulan
 exp : 14-08-2022
 103.18.78.116
 
 jshss 1 bulan
 exp : 14-07-2022
-157.245.153.90
+exp
 
 sjjeh 1 bulan
 exp : 15-07-2022
