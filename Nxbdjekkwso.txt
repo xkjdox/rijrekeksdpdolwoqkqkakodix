@@ -189,3 +189,10 @@ azuretod william
 zeatod 1 bulan
 exp : 15-08-2022
 20.205.214.227
+
+resseler wakvipien vpn 5 ip
+### wak 2022-08-16 41.216.177.49
+41.216.177.49
+-------------
+exp 1 bulan : 2022-08-16
+41.216.177.124
