@@ -95,13 +95,9 @@ florentod 1 bulan
 exp : 14-08-2022
 103.18.78.116
 
-jshss 1 bulan
-exp : 14-07-2022
-exp
-
 sjjeh 1 bulan
 exp : 15-07-2022
-20.205.214.227
+exp
 
 aditod 69 tahun
 43.252.237.205
@@ -182,3 +178,6 @@ azuretod william
 
 ### wakvpn 2022-08-13 103.169.7.139
 103.169.7.139
+
+### rafli 2022-08-15 188.166.220.93
+188.166.220.93
