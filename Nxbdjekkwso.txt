@@ -8,6 +8,9 @@ rajasa william
 104.28.213.126
 103.227.253.199
 
+pasarghosting will
+103.6.207.111
+
 Satu ip lifetime orang malaysia
 43.225.108.185
 
@@ -62,8 +65,6 @@ ID TELEGRAM : 261970051
 103.227.253.132
 ### anonim 2069-06-09 43.252.237.147
 43.252.237.147
-### rafli 2022-07-14 exp
-exp
 ### flassh 2069-06-09 146.19.196.226
 146.19.196.226
 
@@ -94,10 +95,6 @@ ksjse 3 ip lifetime
 florentod 1 bulan
 exp : 14-08-2022
 103.18.78.116
-
-sjjeh 1 bulan
-exp : 15-07-2022
-exp
 
 aditod 69 tahun
 43.252.237.205
