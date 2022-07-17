@@ -101,7 +101,7 @@ aditod 69 tahun
 
 jdbdua 1 bulan
 exp : 18-07-2022
-103.169.210.92
+exp
 
 punya Dimas Prayogo
 exp : 21-07-2022
@@ -149,9 +149,7 @@ exp 04-08-2022
 103.136.18.217
 
 azuretod william
-20.78.62.115
-### azuredut 2069-06-09 20.78.62.235
-20.78.62.235
+20.2.241.82
 
 2 ip 1 bulan
 1. exp 08-08-2022
