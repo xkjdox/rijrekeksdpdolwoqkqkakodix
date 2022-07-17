@@ -183,6 +183,8 @@ azuretod william
 3 ip lifetime
 ### agung 2069-06-09 103.169.7.48
 103.169.7.48
+### agungdo1 2069-06-09 188.166.248.7
+188.166.248.7
 
 zeatod 1 bulan
 exp : 15-08-2022
