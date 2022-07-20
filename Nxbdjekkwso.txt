@@ -191,3 +191,7 @@ resseler wakvipien vpn 5 ip
 -------------
 exp 1 bulan : 2022-08-16
 41.216.177.124
+
+1 ip lifetime
+### LIMBO 2069-06-09 13.70.179.146
+13.70.179.146
