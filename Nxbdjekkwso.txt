@@ -1,11 +1,5 @@
 rajasa william
-104.28.213.127
-104.28.245.127
 103.227.253.231
-104.28.245.128
-104.28.213.128
-104.28.245.130
-104.28.213.126
 103.227.253.199
 
 pasarghosting will
@@ -24,6 +18,7 @@ Lifetime malaysia che gu pkp 1 ip
 
 Biznet william
 103.150.98.205
+103.93.56.68
 
 GCP R H status : LIFETIME
 34.87.92.34
