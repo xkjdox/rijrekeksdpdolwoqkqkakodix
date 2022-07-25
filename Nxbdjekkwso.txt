@@ -95,7 +95,7 @@ aditod 69 tahun
 
 siafricans
 exp : 25-07-2022
-102.37.111.4
+exp
 
 si bapak murid
 exp : 26-07-2022
@@ -186,3 +186,7 @@ exp 1 bulan : 2022-08-23
 rejaaaaaa woibuuuu 1 bulan
 exp : 24-08-2022
 167.71.223.110
+
+1 ip 1 bulan
+exp : 25-08-2022
+139.59.111.13
