@@ -62,8 +62,8 @@ ID TELEGRAM : 261970051
 8.215.77.121
 ### clara 2022-08-05 103.178.174.201
 103.178.174.201
-### ridwan 2022-08-04 103.55.37.76
-103.55.37.76
+### ridwan 2022-08-04 exp
+exp
 
 ### bocahgendeng 2069-06-09 103.227.253.132
 103.227.253.132
@@ -74,7 +74,7 @@ ID TELEGRAM : 261970051
 
 rejawoibu 1 bulan
 exp : 02-08-2022
-178.128.108.138
+exp
 
 ushdhs 3 ip lifetime
 103.227.253.171
@@ -123,7 +123,7 @@ REJAWIBUUUU 5 IP RESSELER
 
 BapackGuruu
 exp 04-08-2022
-194.15.115.226
+exp
 
 2 IP Dani Lifetime
 103.136.18.217
