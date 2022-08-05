@@ -6,6 +6,7 @@ cbtp will
 
 azure
 51.124.108.91
+20.2.65.87
 
 Satu ip lifetime orang malaysia
 43.225.108.185
@@ -61,9 +62,7 @@ ID TELEGRAM : 261970051
 194.15.115.78
 ### alibadut 2069-06-09 8.215.77.121
 8.215.77.121
-### clara 2022-08-05 103.178.174.201
-103.178.174.201
-### ridwan 2022-08-04 exp
+### clara 2022-08-05 exp
 exp
 
 ### bocahgendeng 2069-06-09 103.227.253.132
@@ -72,10 +71,6 @@ exp
 43.252.237.147
 ### flassh 2069-06-09 146.19.196.226
 146.19.196.226
-
-rejawoibu 1 bulan
-exp : 02-08-2022
-exp
 
 ushdhs 3 ip lifetime
 103.227.253.171
@@ -112,19 +107,12 @@ shiroooo
 exp : 29-08-2022
 128.199.172.213
 
-isjsoddk
-exp : 01-08-2022
-exp
-
 REJAWIBUUUU 5 IP RESSELER
 1. exp 03-08-2022
-128.199.106.164
+exp
+------------------
 2. exp 08-08-2022
 188.166.241.32
-
-BapackGuruu
-exp 04-08-2022
-exp
 
 2 IP Dani Lifetime
 103.136.18.217
