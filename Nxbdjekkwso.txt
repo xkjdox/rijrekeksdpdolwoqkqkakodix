@@ -113,7 +113,7 @@ REJAWIBUUUU 5 IP RESSELER
 exp
 ------------------
 2. exp 08-08-2022
-188.166.241.32
+exp
 
 2 IP Dani Lifetime
 103.136.18.217
@@ -125,9 +125,9 @@ azuretod william
 
 2 ip 1 bulan
 1. exp 08-08-2022
-43.229.254.73
+exp
 2. exp 08-08-2022
-43.229.254.59
+exp
 
 3 ip bang joe lifetime
 47.254.238.113
