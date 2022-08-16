@@ -4,11 +4,8 @@ pasarghosting will
 cbtp will
 210.247.245.52
 
-azure
-51.124.108.91
-20.2.65.87
-40.127.92.209
-20.243.138.40
+rajadut
+103.227.253.181
 
 Satu ip lifetime orang malaysia
 43.225.108.185
