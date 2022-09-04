@@ -153,7 +153,7 @@ exp
 exp : 29-08-2022
 exp
 exp : 04-09-2022
-20.2.86.41
+exp
 
 rezanolep
 exp : 30-08-2022
@@ -165,7 +165,7 @@ exp
 
 bapack murid
 exp : 04-09-2022
-194.15.115.226
+exp
 
 1 bulan
 exp : 07-09-2022
