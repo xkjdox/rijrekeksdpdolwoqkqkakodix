@@ -1,6 +1,9 @@
 pasarghosting will
 103.6.207.111
 
+nama isp aneh punya will
+103.83.156.31
+
 cbtp will
 210.247.245.52
 
@@ -263,3 +266,4 @@ exp : 04-10-2022
 sifebsss
 146.19.196.183
 exp : 05-10-2022
+
