@@ -164,12 +164,12 @@ exp : 07-09-2022
 exp
 
 1 bulan
-### Ayoyek 2022-09-08 170.187.230.9
-170.187.230.9
+### Ayoyek 2022-09-08 exp
+exp
 
 1 bulan
-### yayasan 2022-09-09 203.194.112.137
-203.194.112.137
+### yayasan 2022-09-09 exp
+exp
 
 Reza wibuuu 5 ip 1 bulan
 exp : 10-09-2022
