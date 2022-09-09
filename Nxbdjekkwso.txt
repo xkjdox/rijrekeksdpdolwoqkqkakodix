@@ -268,3 +268,11 @@ lollll 1 ip lifetime
 wooeeebuuu 1 bulan
 178.128.99.217
 exp : 09-10-2022
+
+rejaaaaawibux 2 bulan
+20.212.168.22
+exp : 09-11-2022
+
+rejaaaaawibux 1 bulan
+20.212.170.230
+exp : 09-10-2022
