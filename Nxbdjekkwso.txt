@@ -136,19 +136,11 @@ azuretod william
 ### agungdo1 2069-06-09 188.166.248.7
 188.166.248.7
 
-resseler wakvipien vpn 5 ip
+resseler wakvipien vpn 5 ip sisa 1
 -------------
 exp 1 bulan : 2022-09-16
 41.216.177.124
 -------------
-exp 1 bulan : 2022-08-23
-exp
--------------
-exp : 2022-08-30
-exp
--------------
-exp  : 2022-09-01
-exp
 
 1 ip lifetime
 ### LIMBO 2069-06-09 13.70.179.146
@@ -163,20 +155,12 @@ ip 1 bulan
 exp
 
 1 bulan
-exp : 07-09-2022
-exp
-
-1 bulan
-### Ayoyek 2022-09-08 exp
-exp
-
-1 bulan
 ### yayasan 2022-09-09 exp
 exp
 
 Reza wibuuu 5 ip 1 bulan
 exp : 10-09-2022
-128.199.106.164
+exp
 --------
 exp : 13-09-2033
 103.172.205.180
@@ -189,7 +173,7 @@ exp : 14-09-2022
 
 ikyy 1 bulan
 exp : 10-09-2022
-128.199.186.41
+exp
 
 strezz 1 bulan
 ### Bacin 2022-09-11 203.194.112.60
@@ -280,12 +264,9 @@ rejaaaaawibux 1 bulan
 20.212.170.230
 exp : 09-10-2022
 
-### iannn 2022-10-09 51.79.251.43
-51.79.251.43
+### iannn 2022-10-09 exp
+exp
 
 lolollllllol 1 bulan
 104.248.148.129
 exp : 10-10-2022
-
-### indolan 2022-10-10 43.230.131.30
-43.230.131.30
