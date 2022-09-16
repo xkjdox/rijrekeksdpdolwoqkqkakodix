@@ -145,7 +145,7 @@ azuretod william
 resseler wakvipien vpn 5 ip sisa 1
 -------------
 exp 1 bulan : 2022-09-16
-41.216.177.124
+exp
 -------------
 
 1 ip lifetime
@@ -182,14 +182,14 @@ exp
 
 1 bulan
 exp : 16-09-2022
-43.229.254.73
+exp
 
 1 bulan
 exp : 16-09-2022
-43.229.254.59
+exp
 
-### smith 2022-09-16 52.139.218.86
-52.139.218.86
+### smith 2022-09-16 exp
+exp
 
 1 bulan
 exp : 17-10-2022
