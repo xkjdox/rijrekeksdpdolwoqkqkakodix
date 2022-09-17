@@ -109,10 +109,6 @@ ksjse 3 ip lifetime
 aditod 69 tahun
 43.252.237.205
 
-shiroooo
-exp : 29-08-2022
-exp
-
 2 IP Dani Lifetime
 103.136.18.217
 
@@ -147,30 +143,11 @@ azuretod william
 ### LIMBO 2069-06-09 13.70.179.146
 13.70.179.146
 
-rezanolep
-exp : 30-08-2022
-exp
-
-ip 1 bulan
-### john 2022-08-31 exp
-exp
-
-1 bulan
-### yayasan 2022-09-09 exp
-exp
-
-exp : 13-09-2033
-exp
---------
 exp : 14-10-2022
 206.189.157.81
 ---------
 ### rafli 2022-10-16 128.199.139.27
 128.199.139.27
-
-fooo 1 bulan
-exp : 13-09-2022
-exp
 
 ### febsku 2022-10-15 185.222.243.122
 185.222.243.122
