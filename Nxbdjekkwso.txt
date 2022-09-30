@@ -161,7 +161,7 @@ exp : 17-10-2022
 188.166.191.1
 
 rejaaaaaaa 5 ip
-139.59.244.79
+exp
 exp : 30-09-2022
 
 febriiiiiiiix 1 bulan
@@ -288,3 +288,7 @@ uwusjsaodj 1 bulan
 
 ### vpnkuy 2022-10-29 38.9.140.149
 38.9.140.149
+
+aisjisj 1 bulan
+108.136.244.221
+30-10-2022
