@@ -316,5 +316,5 @@ ksjjddMEDUSA_CA 3 ip lifetime
 157.245.149.138
 
 wijeje 1 bulan
-178.128.49.86
+128.199.108.194
 10-11-2022
