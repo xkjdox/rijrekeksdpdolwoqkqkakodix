@@ -26,6 +26,7 @@ Lifetime malaysia che gu pkp 1 ip
 
 Biznet william
 103.93.131.66
+104.28.245.126
 104.28.245.128
 104.28.245.129
 8.29.105.69
