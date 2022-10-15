@@ -308,6 +308,7 @@ wijeje 1 bulan
 
 LIFETIME_5_IP_DENSI
 103.136.19.197
+43.229.254.190
 
 isjwueus 1 bulan
 154.26.136.174
@@ -342,5 +343,5 @@ ieueuuestol 1 bulan
 157.245.197.16
 14-11-2022
 
-xxxxlifetime
+xxxxlifetime 1 ip
 194.233.90.102
