@@ -350,3 +350,6 @@ ieueuuestol 1 bulan
 
 xxxxlifetime 1 ip
 194.233.90.102
+
+### linode2-wongedan 2022-11-16 45.118.133.239
+45.118.133.239
