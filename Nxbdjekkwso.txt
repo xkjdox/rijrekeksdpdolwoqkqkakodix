@@ -1,9 +1,6 @@
 #& Will-RW LIFETIME 203.175.10.177
 203.175.10.177
 
-pasarghosting will
-103.6.207.111
-
 ikd will
 103.167.34.212
 
@@ -12,9 +9,6 @@ punyaAAA will
 
 cbtp will
 210.247.245.52
-
-rajadut
-103.227.253.181
 
 Satu ip lifetime orang malaysia
 43.225.108.185
@@ -173,12 +167,6 @@ azuretod william
 ### LIMBO 2069-06-09 13.70.179.146
 13.70.179.146
 
-exp : 14-10-2022
-exp
----------
-### rafli 2022-10-16 exp
-exp
-
 ### febsku 2022-11-05 45.12.80.137
 45.12.80.137
 
@@ -195,48 +183,6 @@ exp : 09-11-2022
 
 wiuwiuwiu lifetime 1 ip
 128.199.115.115
-
-lololololool 1 bulan
-exp
-exp : 12-10-2022
-
-### Kaname 2022-10-12 exp
-exp
-
-### afriansyah 2022-10-13 exp
-exp
-
-rejaaaaaaxx 1 bulan
-13-10-2022
-exp
-
-rejaxxxnxx 1 bulan
-14-10-2022
-exp
-
-ohhyeaggggggahh 1 bulan
-exp
-15-10-2022
-
-
-huhuhihihuhu 1 bulan
-exp
-15-10-2022
-
-### Denka 2022-10-16 exp
-exp
-
-awikwokokowik 1 bulan
-exp
-17-10-2022
-
-awikwokwikwokik 1 bulan
-exp
-17-10-2022
-
-rejaaaxxxxxnxxx 1 bulan
-exp
-19-10-2022
 
 awdkaks 1 bulan
 128.199.233.97
@@ -296,7 +242,7 @@ rejaaawibuuuxx
 ### yanzbtot 2022-11-06 103.253.27.44
 103.253.27.44
 
-ishdisjsNIREZZZ 3 ip lifetime
+ishdisjsNIREZZZ 3+1 bonus ip lifetime
 103.169.210.238
 159.89.202.245
 103.167.34.146
