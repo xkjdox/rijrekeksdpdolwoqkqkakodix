@@ -182,10 +182,6 @@ azuretod william
 ### febsku 2022-11-05 45.12.80.137
 45.12.80.137
 
-1 bulan
-exp : 17-10-2022
-exp
-
 lollll 1 ip lifetime
 103.172.204.106
 
@@ -195,10 +191,6 @@ exp : 09-11-2022
 
 wiuwiuwiu lifetime 1 ip
 128.199.115.115
-
-awdkaks 1 bulan
-exp
-21-10-2022
 
 rejaaaaawibuxxx 1 bulan
 139.59.102.219
@@ -352,4 +344,8 @@ isusiwiwsiRIN 3 ip lifetime
 
 akekjdjeiwWOLDY 1 bulan
 134.122.22.111
+21-11-2022
+
+iwjsjsjsisDENDIII 1 bulan
+103.178.174.201
 21-11-2022
