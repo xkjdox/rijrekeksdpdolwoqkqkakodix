@@ -203,7 +203,7 @@ woiwksksjs lifetime 1 ip
 27.112.79.183
 
 rejaaaxxxxxx 1 bulan
-165.22.100.40
+exp
 25-10-2022
 
 bapackxx murid 1 bulan
@@ -356,3 +356,6 @@ iwjsjsjsisDENDIII 1 bulan
 iwjejsieje 1 bulan
 103.139.192.5
 23-11-2022
+
+lifetime 1 ip
+41.216.177.19
