@@ -361,3 +361,6 @@ iwjejsieje 1 bulan
 
 lifetime 1 ip
 41.216.177.19
+
+### sgdo4-wongedan 27-11-2022 188.166.219.247
+188.166.219.247
