@@ -191,10 +191,6 @@ azuretod william
 lollll 1 ip lifetime
 103.172.204.106
 
-rejaaaaawibux 2 bulan
-20.212.168.22
-exp : 09-11-2022
-
 wiuwiuwiu lifetime 1 ip
 128.199.115.115
 
@@ -212,10 +208,6 @@ naieuueus 1 bulan
 209.97.172.73
 04-12-2022
 
-rejaaawibuuuxx
-exp
-04-11-2022
-
 ### yanzbtot 2022-11-06 103.253.27.44
 103.253.27.44
 
@@ -225,16 +217,12 @@ ishdisjsNIREZZZ 3+1 bonus ip lifetime
 103.167.34.146
 167.172.92.162
 
-loloouaokssj 1 bulan
-08-11-2022
-exp
-
 ksjjddMEDUSA_CA 3 ip lifetime
 157.245.149.138
 139.59.109.194
 
 wijeje 1 bulan
-128.199.108.194
+exp
 10-11-2022
 
 LIFETIME_5_IP_DENSI
