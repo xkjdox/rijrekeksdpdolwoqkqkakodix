@@ -232,7 +232,7 @@ LIFETIME_5_IP_DENSI
 103.234.211.110
 
 isjwueus 1 bulan
-154.26.136.174
+exp
 11-11-2022
 
 ### febrianSkuy 2022-11-12 103.169.210.232
