@@ -221,19 +221,11 @@ ksjjddMEDUSA_CA 3 ip lifetime
 157.245.149.138
 139.59.109.194
 
-wijeje 1 bulan
-exp
-10-11-2022
-
 LIFETIME_5_IP_DENSI
 103.136.19.197
 43.229.254.190
 15.235.142.215
 103.234.211.110
-
-isjwueus 1 bulan
-exp
-11-11-2022
 
 ### febrianSkuy 2022-12-13 103.169.210.232
 103.169.210.232
@@ -244,20 +236,12 @@ exp
 ### sgdo-daihan 2022-11-12 159.223.46.242
 159.223.46.242
 
-rejaawibuzzzzzzzxxx 1 bulan
-exp
-12-11-2022
-
-rejaaawibuxxxx 1 bulan
-exp
-13-11-2022
-
 ssjiejee 1 bulan
-103.167.34.113
+exp
 14-11-2022
 
 rejaaawoixbucc 1 bulan
-159.223.91.114
+exp
 14-11-2022
 
 ieueuuestol 1 bulan
