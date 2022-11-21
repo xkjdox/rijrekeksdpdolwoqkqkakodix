@@ -282,11 +282,11 @@ isusiwiwsiRIN 3 ip lifetime
 146.19.196.186
 
 akekjdjeiwWOLDY 1 bulan
-134.122.22.111
+exp
 21-11-2022
 
 iwjsjsjsisDENDIII 1 bulan
-103.178.174.201
+exp
 21-11-2022
 
 iwjejsieje 1 bulan
