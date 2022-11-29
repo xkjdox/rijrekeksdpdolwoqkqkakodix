@@ -285,11 +285,11 @@ lifetime 1 ip
 165.22.110.0
 
 rejakontolodon
-165.232.165.227
+exp
 28-11-2022
 
 bapackkmuriddd 1 bulan
-103.136.19.231
+exp
 29-11-2022
 
 eieieue 1 bulan
