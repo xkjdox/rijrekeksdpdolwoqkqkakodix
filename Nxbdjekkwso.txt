@@ -249,7 +249,7 @@ LIFETIME_5_IP_DENSI
 159.223.46.242
 
 ieueuuestol 1 bulan
-157.245.197.16
+exp
 14-12-2022
 
 xxxxlifetime 1 ip
@@ -334,26 +334,26 @@ exp
 157.245.193.154
 
 iksjsjjdereja 1 bulan
-157.230.34.97
+exp
 13-12-2022
 
 isjsjairb 1 bulan
-154.26.136.174
+exp
 13-12-2022
 
 lifetim unli nirez
 103.235.74.208
 
 teidhjdisis 1 bulan
-128.199.120.202
+exp
 14-12-2022
 
 skjsjsisjsjsjjd 1 bulan
-157.245.151.227
+exp
 14-12-2022
 
 sjsjshbsshhd 1 bulan
-143.198.85.145
+exp
 14-12-2022
 
 skjsjjrjjeuejs 1 bulan
@@ -415,3 +415,6 @@ iajdjidiss 1 bulan
 skjsieiies 1 bulan
 103.186.31.82
 12-01-2023
+
+### kawo-9 2023-01-14 159.223.52.69
+159.223.52.69
