@@ -209,7 +209,7 @@ wiuwiuwiu lifetime 1 ip
 128.199.115.115
 
 rejaaaaawibuxxx 1 bulan
-139.59.102.219
+exp
 24-12-2022
 
 woiwksksjs lifetime 1 ip
@@ -311,7 +311,7 @@ exp
 07-12-2022
 
 ### reza 2022-12-08 159.65.8.16
-159.65.8.16
+exp
 
 ### sgdo-amir 2023-01-08 159.223.66.129
 159.223.66.129
@@ -320,7 +320,7 @@ nirezz lifetime
 103.169.210.69
 
 ### sgdo-roby 2022-12-11 167.172.86.130
-167.172.86.130
+exp
 
 ajajjsjdjs 1 bulan
 exp
@@ -431,3 +431,7 @@ issjisei 1 bulan
 
 ### linod-2yo 2023-01-20 139.162.37.228
 139.162.37.228
+
+sijejeiiwj 1 bulan
+45.12.80.136
+24-01-2023
