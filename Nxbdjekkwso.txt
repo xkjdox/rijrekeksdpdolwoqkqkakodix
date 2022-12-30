@@ -384,7 +384,7 @@ exp
 ### idc-amir 2022-12-27 103.23.199.99
 
 wjheuejwjehwh 1 bulan
-203.175.10.166
+exp
 30-12-2022
 
 isjeuuejwjw 1 bulan
@@ -437,3 +437,6 @@ issjisei 1 bulan
 sijejeiiwj 1 bulan
 45.12.80.136
 24-01-2023
+
+### wong-2edan 2023-01-30 207.148.66.8
+207.148.66.8
