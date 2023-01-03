@@ -69,6 +69,7 @@ ID TELEGRAM : 261970051
 103.150.88.42
 47.250.42.86
 108.136.44.28
+146.190.110.63
 103.183.74.119
 194.195.92.48
 159.223.44.214
@@ -221,7 +222,7 @@ woiwksksjs lifetime 1 ip
 54.169.4.208
 
 naieuueus 1 bulan
-209.97.172.73
+exp
 04-01-2023
 
 ### yanzbtot 2022-11-06 103.253.27.44
@@ -295,14 +296,6 @@ lifetime 1 ip
 
 ### sg3-wongedan 2022-11-28 165.22.110.0
 165.22.110.0
-
-eieieue 1 bulan
-exp
-31-12-2022
-
-idjdjee 1 bulan
-exp
-31-12-2022
 
 hwheuhdw 1 bulan
 exp
@@ -389,7 +382,7 @@ exp
 30-12-2022
 
 isjeuuejwjw 1 bulan
-203.175.10.253
+exp
 02-01-2023
 
 aijsiejeie liptem
@@ -399,7 +392,7 @@ aijsiejeie liptem
 149.28.152.119
 
 ususjsjeus 1 bulan
-202.73.26.70
+exp
 04-01-2023
 
 isjeueujssb 1 bulan
