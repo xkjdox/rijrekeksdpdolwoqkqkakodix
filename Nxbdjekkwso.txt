@@ -293,35 +293,11 @@ isusiwiwsiRIN 3 ip lifetime
 lifetime 1 ip
 41.216.177.19
 
-### sg4-wongedan 2022-11-27 188.166.219.247
-188.166.219.247
-
-### sg3-wongedan 2022-11-28 165.22.110.0
-165.22.110.0
-
-hwheuhdw 1 bulan
-exp
-07-12-2022
-
-iwejeue 1 bulan
-exp
-07-12-2022
-
-### reza 2022-12-08 159.65.8.16
-exp
-
 ### sgdo-amir 2023-01-08 159.223.66.129
 159.223.66.129
 
 nirezz lifetime
 103.169.210.69
-
-### sgdo-roby 2022-12-11 167.172.86.130
-exp
-
-ajajjsjdjs 1 bulan
-exp
-11-12-2022
 
 ### berkah-wongedan 2022-12-12 103.65.237.126
 103.65.237.126
@@ -332,44 +308,12 @@ exp
 ### wongedan-sgdo5 2023-01-13 157.245.193.154
 157.245.193.154
 
-iksjsjjdereja 1 bulan
-exp
-13-12-2022
-
-isjsjairb 1 bulan
-exp
-13-12-2022
-
 lifetim unli nirez
 103.235.74.208
-
-teidhjdisis 1 bulan
-exp
-14-12-2022
-
-skjsjsisjsjsjjd 1 bulan
-exp
-14-12-2022
-
-sjsjshbsshhd 1 bulan
-exp
-14-12-2022
 
 skjsjjrjjeuejs 1 bulan
 167.172.75.209
 14-01-2023
-
-sjjsjejsjdjd 1 bulan
-exp
-16-12-2022
-
-trjsndndjiejed 1 bulan
-exp
-18-12-2022
-
-wildytod surrentod 1 bulan
-exp
-20-12-2022
 
 ### sg4-edan 2023-01-22 146.190.89.219
 146.190.89.219
@@ -377,37 +321,11 @@ exp
 ### edan-sg3 2023-01-27 128.199.125.41
 128.199.125.41
 
-### idc-amir 2022-12-27 103.23.199.99
-
-wjheuejwjehwh 1 bulan
-exp
-30-12-2022
-
-isjeuuejwjw 1 bulan
-exp
-02-01-2023
-
 aijsiejeie liptem
 159.223.93.187
 
 ### wong-edan2 2023-01-03 149.28.152.119
 149.28.152.119
-
-ususjsjeus 1 bulan
-exp
-04-01-2023
-
-isjeueujssb 1 bulan
-exp
-05-01-2023
-
-jdidjejjsjeje 1 bulan
-exp
-05-01-2023
-
-iajdjidiss 1 bulan
-103.173.75.169
-09-01-2023
 
 skjsieiies 1 bulan
 103.186.31.82
