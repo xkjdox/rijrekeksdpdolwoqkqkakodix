@@ -305,7 +305,7 @@ nirezz lifetime
 ### wongedan-linode2 2023-01-13 139.162.53.208
 139.162.53.208
 
-### wongedan-sgdo5 2023-01-13 157.245.193.154
+### wongedan-sgdo5 2023-02-13 157.245.193.154
 157.245.193.154
 
 lifetim unli nirez
