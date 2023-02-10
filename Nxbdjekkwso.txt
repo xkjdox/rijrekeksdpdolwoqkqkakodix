@@ -179,6 +179,7 @@ ishdisjsNIREZZZ 3+1 bonus ip lifetime
 159.89.202.245
 103.167.34.146
 167.172.92.162
+139.59.109.48
 
 ksjjddMEDUSA_CA 3 ip lifetime
 157.245.149.138
