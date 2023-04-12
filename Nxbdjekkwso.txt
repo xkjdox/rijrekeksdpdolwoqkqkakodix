@@ -227,10 +227,6 @@ lifetim unli nirez
 aijsiejeie liptem
 159.223.93.187
 
-isjsjeje 1 bulan
-exp
-05-05-2023
-
 jdjdjdjkd
 103.147.33.86
 157.245.50.54
@@ -241,9 +237,9 @@ leftem
 51.79.144.216
 103.186.31.82
 
-rejaaa wibu 12 ip
-174.138.18.228
-188.166.236.97
+rejaaa wibu 10 dari 12 ip
+exp
+exp
 11-04-2023
 
 naloveza 1 bulan
@@ -253,3 +249,8 @@ naloveza 1 bulan
 sijsieue 1 bulan
 21-04-2023
 103.178.175.27
+
+jdjdjje 1 bulan
+43.229.254.59
+43.229.254.73
+01-05-2023
