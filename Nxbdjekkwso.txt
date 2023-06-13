@@ -239,7 +239,9 @@ leftem
 51.79.144.216
 103.186.31.82
 
-rejaaa wibu sisa 06 dari 12 ip
+rejaaa wibu sisa 05 dari 12 ip
+174.138.18.228
+13-07-2023
 exp
 exp
 exp
@@ -312,3 +314,5 @@ exp
 
 103.30.246.42
 09-07-2023
+
+
